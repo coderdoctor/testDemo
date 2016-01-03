@@ -14,5 +14,9 @@
 
 @property (nonatomic, assign) BOOL isRotation;//设置是否横屏
 
+
+
+
+
 @end
 
